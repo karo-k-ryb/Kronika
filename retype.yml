@@ -1,0 +1,21 @@
+input: src.
+output: dist
+url: kronika.retype.com
+
+branding:
+  title: Kronika
+  
+meta:
+  title: " - Generate, publish, and share documentation"
+
+links:
+- text: Home
+  link: https://kronika.retype.com
+  icon: home
+
+footer:
+  copyright: "&copy; Copyright {{ year }}. All rights reserved."
+  
+  
+  
+  
